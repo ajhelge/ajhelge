@@ -7,3 +7,5 @@ I haven't figured out what field I would like to work in as I don't have much ex
 I'm not an expert in anything, but I have taken classes in JAVA, C, and MySQL. I've also been through a Cyber Security Course.
 
 I will be using GitHub to make any code I write visible to potential employers and anyone interested in viewing it.
+
+My Current Project is Project 7.
